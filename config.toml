@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "http://openeuler.gitee.io/blog/"
 title = "Welcome to openEuler"
 author = "@JeffProd"
 copyright = "Copyright © 2008–2018, @JeffProd"
