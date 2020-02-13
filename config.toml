@@ -26,6 +26,6 @@ defaultContentLanguageInSubdir = true
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
     avatar = 'mm'
-    placeholder = '请文明留言...'
+    placeholder = 'Please leave a message...'
     visitor = true
 
