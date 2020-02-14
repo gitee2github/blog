@@ -1,3 +1,13 @@
++++
+banner = "img/banners/banner-1.jpg"
+title = "开源知识产权相关的几个问题"
+date = "2020-02-14"
+tags = ["copyright", "copyleft", "patent", "trademark", "license"]
+archives = "2020.02"
+author = "Xing Zhu"
+summuary = "本文简要讨论了跟开源相关的几个重要的知识产权的基本问题。"
++++
+
 ### 开源知识产权相关的几个问题
 
 * Copyright vs. Copyleft
