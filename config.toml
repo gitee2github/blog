@@ -1,5 +1,5 @@
+title = "openEuler Blog"
 baseurl = "http://blog.openeuler.org"
-title = "Welcome to openEuler"
 author = "@JeffProd"
 copyright = "Copyright © 2008–2018, @JeffProd"
 canonifyurls = true
