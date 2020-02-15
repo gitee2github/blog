@@ -1,5 +1,5 @@
-baseurl = "http://openeuler.gitee.io/blog/"
-title = "Welcome to openEuler"
+title = "openEuler Blog"
+baseurl = "http://blog.openeuler.org"
 author = "@JeffProd"
 copyright = "Copyright © 2008–2018, @JeffProd"
 canonifyurls = true
