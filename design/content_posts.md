@@ -15,6 +15,7 @@ The content of blogs are under ./content
 
 ```
 |__ _draft       --list the cases of blogs 
+|__ guidance     --house the guidance to post and maintain the blogs
 |__ post         --house all the final posts
    |__ yyyymmdd  --house the blogs by months, such as 202002
 ```
@@ -42,4 +43,17 @@ The following are one example.
 2020-01-01-new-years-is-coming.md
 2020-01-01-new-years-is-coming-01.png
 2020-01-01-new-years-is-coming-02.png
+```
+
+### File headers
+Functionally, the post should support categories, archives, title, date, brief description, thus the file headers should be as below.
+```
++++
+title = ""
+date = "yyyy-mm-dd"
+tags = ["aaaa", "bbbb", "cccc"]
+archives = "yyyy-mm"  //by months
+author = "name of author"
+summuary = ""
++++
 ```
