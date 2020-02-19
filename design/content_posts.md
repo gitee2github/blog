@@ -1,8 +1,8 @@
 # Posts
-This file is to explain in which way the content of the blogs are stored and readed by the blog system.
+This file is to explain in which way the content of the blogs are stored and read by the blog system.
 
 ## What is supported in the blog
-A blog can include many format of information, like text, pictures, videos, annimations or others. 
+A blog can include many formats of information, like text, pictures, videos, annimations or others. 
 
 openEuler Blog is designed to support the following formats:
 
@@ -14,7 +14,7 @@ openEuler Blog is designed to support the following formats:
 The content of blogs are under ./content
 
 ```
-|__ _draft       --list the cases of blogs 
+|__ _example     --list the some blog examples
 |__ guidance     --house the guidance to post and maintain the blogs
 |__ post         --house all the final posts
    |__ yyyymmdd  --house the blogs by months, such as 202002
@@ -76,7 +76,7 @@ Linking to a PDF for readers to download:
 ```
 Linking to a url for readers to visit:
 ```
-... you can [read more](<gitee.com/openeuler/>).
+... you can [read more](<https://gitee.com/openeuler/>).
 ```
 
 ## Thanks
