@@ -2,13 +2,14 @@
 This file is to explain in which way the content of the blogs are stored and read by the blog system.
 
 ## What is supported in the blog
-A blog can include many formats of information, like text, pictures, videos, annimations or others. 
+A blog can include many formats of information, like text, pictures, videos, animations or others. 
 
 openEuler Blog is designed to support the following formats:
 
 1. text
 2. static picture
 3. links
+4. animation
 
 ## Folder design
 The content of blogs are under ./content
@@ -17,12 +18,14 @@ The content of blogs are under ./content
 |__ _example     --list the some blog examples
 |__ guidance     --house the guidance to post and maintain the blogs
 |__ post         --house all the final posts
-   |__ yyyymmdd  --house the blogs by months, such as 202002
+   |__ author_1  --house the blogs by authors' gitee ID, and each author need create your own foler by your id.
+   |__ author_2  --house the blogs by authors' gitee ID
+
 ```
 
 ## Post content design
 ### File name
-To create a post, add a file to your _post/yyyymmdd/_ directory with the following format:
+To create a post, add a file to your _post/author_1/_ directory with the following format:
 
 ```
 YEAR-MONTH-DAY-title.MARKUP
@@ -59,7 +62,7 @@ The following are one example.
 ```
 2020-01-01-new-years-is-coming.md
 2020-01-01-new-years-is-coming-01.png
-2020-01-01-new-years-is-coming-02.png
+2020-01-01-new-years-is-coming-02.gif
 2020-01-01-new-years-is-coming-03.pdf
 ```
 Then, from within any post, they can be linked to using the site’s root as the path for the asset to include. Here are some simple examples in Markdown:
@@ -67,7 +70,7 @@ Then, from within any post, they can be linked to using the site’s root as the
 Including an image asset in a post:
 ```
 ... which is shown in the screenshot below:
-![The architecture](/content/post/yyyymm/2020-01-01-new-years-is-coming-01.png)
+![The architecture](/content/post/author1/2020-01-01-new-years-is-coming-01.png)
 ```
 
 Linking to a PDF for readers to download:
