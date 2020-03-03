@@ -30,7 +30,7 @@ date = "2019-10-10"
 tags = ["meetup"]
 archives = "2019.10"
 author = "user1"
-summuary = "openEuler第一次线下活动将在北京举行。"
+summary = "openEuler第一次线下活动将在北京举行。"
 +++
 此处为博客内容.
 ```

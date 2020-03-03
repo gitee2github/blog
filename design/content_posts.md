@@ -45,7 +45,7 @@ date = "yyyy-mm-dd"
 tags = ["aaaa", "bbbb", "cccc"]
 archives = "yyyy-mm"  //by months
 author = "name of author"
-summuary = ""
+summary = ""
 +++
 ```
 
