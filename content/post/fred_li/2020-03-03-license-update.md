@@ -7,74 +7,35 @@ author = "Fred Li"
 summary = "Mulan Permissive Software License v2 has got accepted by OSI, thus openEuler community is planning to upgrade the license from Mulan PSL v1 to v2."
 +++
 
-## HTML Elements
+## Notice to upgrade openEuler software license from Mulan PSL v1 to v2
 
-Below is just about everything you'll need to style in the blog.
+openEuler community uses [Mulan PSL v1](https://license.coscl.org.cn/MulanPSL/index.html). 
 
-# Heading 1
+_At the Board meeting of February 14, 2020, the Board of the Open Source Initiative approved the Mulan PSL License v2._ You can find the email <http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2020-February/004695.html>
 
-## Heading 2
+As [Mulan PSL v2](https://license.coscl.org.cn/MulanPSL2/index.html) is approved by [OSI](https://opensource.org/), openEuler community would like to update Mulan PSL from v1 to v2. 
 
-### Heading 3
+## Your opinion matters
 
-#### Heading 4
+All openEuler community members' opinion matters, thus this notice is published.
 
-##### Heading 5
+If you have different opinion on this, please send email to <community@openeuler.org> by March 19th, 2020. 
 
-### Body text
+The license updating will not be valid until March 19th, 2020.
 
-This blog is about bla bla. **This is strong**. 
+## The difference between Mulan PSL v1 and v2
 
-![openEuler is open](/content/_example/2020-03-03-sample-post-01.png)
+|Comparation| Mulan PSL v1 | Mulan PSL v2 |
+|:--------|:-------|:--------|
+| Definition of "Affiliates"   | Affiliates means entities that control, or are controlled by, or are under common control with a party to this License   | Affiliates means entities that control, are controlled by, or are under common control with the acting entity under this License   |
+| The clause of "Grant of Patent License"   | excluding of any patent claims solely be infringed by your or others’ modification or other combinations. If you or your Affiliates directly or indirectly (including through an agent, patent licensee or assignee）, institute patent litigation (including a cross claim or counterclaim in a litigation) or other patent enforcement activities against any individual or entity by alleging that the Software or any Contribution in it infringes patents, then any patent license granted to you under this License for the Software shall terminate as of the date such litigation or activity is filed or taken.|The patent license shall not apply to any modification of the Contribution, and any other combination which includes the Contribution. If you or your Affiliates directly or indirectly institute patent litigation (including a cross claim or counterclaim in a litigation) or other patent enforcement activities against any individual or entity by alleging that the Software or any Contribution in it infringes patents, then any patent license granted to you under this License for the Software shall terminate as of the date such litigation or activity is filed or taken.|
+|"Language" clause|no|HIS LICENSE IS WRITTEN IN BOTH CHINESE AND ENGLISH, AND THE CHINESE VERSION AND ENGLISH VERSION SHALL HAVE THE SAME LEGAL EFFECT. IN THE CASE OF DIVERGENCE BETWEEN THE CHINESE AND ENGLISH VERSIONS, THE CHINESE VERSION SHALL PREVAIL.|
+|Disclaimer of Warranty|Using Lowercase letters|Using Uppercase letters|
 
-### Quotation
+You can find the Mulan PSL V1 and V2 below:
 
-> The sites that have been chosen are listed and described next to each work, with encapsulating quotes or pieces of text narrating central themes for the groups.
+Mulan PSL v2: <https://license.coscl.org.cn/MulanPSL2/index.html>
 
-## List Types
+Mulan PSL v1: <https://license.coscl.org.cn/MulanPSL/index.html>
 
-### Ordered Lists
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code 
-
-```
-struct async_entry {
-	struct list_head	domain_list;
-	struct list_head	global_list;
-	struct work_struct	work;
-	async_cookie_t		cookie;
-	async_func_t		func;
-	void			*data;
-	struct async_domain	*domain;
-};
-```
-
-## Attachment
-
-Download the file here download:
-[get the PNG](/content/_example/2020-03-03-sample-post-01.png) directly.
