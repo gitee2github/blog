@@ -22,7 +22,7 @@
     <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
             <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}">Home</a>
-            <a class="navbar-item" href="/guidance">Guidance</a>
+            <a class="navbar-item" href="/guidance">Post a Blog</a>
         </div>
     </nav>
     <!-- /nav -->
@@ -38,6 +38,8 @@
                         #{{ .Title }}
                     {{ else if eq .Type "archives" }}
                         Archive {{ .Title }}
+                    {{ else if eq .Type "guidance" }}
+                        Post a blog
                     {{ else }}
                         {{ .Title }}
                     {{ end }}
