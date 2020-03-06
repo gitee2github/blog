@@ -1,6 +1,5 @@
 +++
 title = "Guidance to Post a Blog"
-title = "Post a blog"
 
 +++
 
