@@ -1,5 +1,5 @@
 +++
-title = "Guidance"
+title = "Post a blog"
 
 +++
 ## 前期准备
