@@ -25,7 +25,7 @@ summary = "A summary of TC status update."
 
 技术委员会从2月5日开始，已经召开了4次会议。除了第一次会议是采用irc的方式，后续几次都采用
 zoom系统。每次会议的接入方式都会提前1~2天在 tc@openeuler.org 上通知。欢迎对技术委员会运作
-感兴趣的伙伴们围观。
+感兴趣的朋友们围观。
 
 技术委员会会议的议题，是通过 tc@openeuler.org 邮件列表收集的。我们会在邮件列表上确定需
 要上会讨论的议题，可以是委员提议，也可以是其他任何人提出并得到至少一个委员的认可。
@@ -34,11 +34,11 @@ zoom系统。每次会议的接入方式都会提前1~2天在 tc@openeuler.org �
 
 ## 值得关注的技术动向预告
 
-- CS2C的小伙伴们提案在 openEuler 中创建了 oVirt 这个 SIG。 oVirt 是一个免费的虚拟化解决方案，
+- CS2C的开发者提案在 openEuler 中创建了 oVirt 这个 SIG。 oVirt 是一个免费的虚拟化解决方案，
   如果成功引入到 openEuler 中，可以填补 openEuler 社区的一大空白。虽然当前这个 SIG 还没有提交代码，
   但我们对此还是拭目以待。
 
-- 普华的小伙伴们提案在 openEuler 中创建了 mate-desktop 这个SIG。Mate 桌面环境是 gnome3 项目启动后
+- 普华的开发者提案在 openEuler 中创建了 mate-desktop 这个SIG。Mate 桌面环境是 gnome3 项目启动后
   爱好者们对 gnome2 的延续。相对于 gnome3 和 KDE 来说，Mate 桌面的优势在于轻量而直观，对硬件环境要
   求更低。这个工作对 openEuler 当前非常欠缺的桌面环境是个很好的补充。也请对此感兴趣的朋友们关注试用。
 
