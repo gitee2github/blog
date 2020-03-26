@@ -9,13 +9,7 @@ summary = "This article is to guide you apply for virtual machines from Peng Che
 
 ## [English](#1) | [简体中文](#2)
 
-<h2 id="1">English</h2>
-
-[Peng Cheng Liboratory](http://www.pcl.ac.cn/)
-
-<https://dw.pcl.ac.cn/cloud/login>
-
-### The procedure to apply for VMs from Peng Cheng Liboratory for openEuler development
+### The procedure to apply for VMs from Peng Cheng Liboratory for openEuler development {#1}
 
 
 #### Introduction.
@@ -39,6 +33,7 @@ The link is <https://gitee.com/openeuler/community-issue/issues>
 - Title：Starting with "[VM Application in PCL]"
 
 - Content template：
+
 ```
 - PCL ID：（Apply at https://dw.pcl.ac.cn/cloud/login）
 
@@ -121,12 +116,12 @@ There are 2 ways to release the resource.
 - Submit an issue in <https://gitee.com/openeuler/community-issue/issues>, with the title staring with  "[VM Application in PCL]"
 
 
+<The end>
+
+----
 
 
-<h2 id="2">简体中文</h2>
-
-### 向鹏城实验室申请Arm虚拟机进行openEuler测试流程
-
+### 向鹏城实验室申请Arm虚拟机进行openEuler测试流程 {#2}
 
 #### 简介
 
@@ -149,6 +144,7 @@ There are 2 ways to release the resource.
 - 标题：以"[鹏城实验室VM申请]"开头
 
 - 内容模板：
+
 ```
 - 鹏城生态门户开发者云ID：（在https://dw.pcl.ac.cn/cloud/login申请）
 
