@@ -39,7 +39,7 @@ summary = "如何使用VirtualBox安装openEuler虚拟机."
 
 选择 【控制】-->【新建】，填写虚拟机的配置信息，示例如下
 
-名称：openEuler，类型：Linux，由于没有openEuler，所以版本选择Fedora(64-bit)，下一步
+名称：openEuler，类型：Linux，由于没有openEuler，所以版本选择Others Linux(64-bit)，下一步
 
 ![config-virtual-machine](../2020-03-27-VirtualBox-media/config-virtual-machine.png "config-virtual-machine.png")
 
