@@ -111,7 +111,7 @@ summary = "windows下使用VirtualBox安装openEuler虚拟机."
 
 ![install_status](../2020-03-27-VirtualBox-media/install_status.png "install_status.png")
 
-选择Root Rassword 设置root用户的密码（后面登录要用到！~）
+选择Root Password 设置root用户的密码（后面登录要用到！~）
 
 ![set_pass](../2020-03-27-VirtualBox-media/set_pass.png "set_pass.png")
 
