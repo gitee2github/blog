@@ -4,12 +4,12 @@ date = "2020-03-27"
 tags = ["安装openEuler"]
 archives = "2020-03"
 author = "traffic_millions"
-summary = "如何使用VirtualBox安装openEuler虚拟机."
+summary = "windows下使用VirtualBox安装openEuler虚拟机."
 
 +++
 
 ### 【背景】
-今天华为开发者大会上，[openEuler开源社区]( https://openeuler.org/zh/ )发布了最新的LTS版本，手上只有一台windows机器，考虑使用VirtualBox安装openEuler虚拟机.
+今天华为开发者大会上，openEuler开源社区发布了最新的LTS版本，手上只有一台windows机器，考虑使用VirtualBox安装openEuler虚拟机.
 
 ### 【环境准备】
 
@@ -39,7 +39,7 @@ summary = "如何使用VirtualBox安装openEuler虚拟机."
 
 选择 【控制】-->【新建】，填写虚拟机的配置信息，示例如下
 
-名称：openEuler，类型：Linux，由于没有openEuler，所以版本选择Others Linux(64-bit)，下一步
+名称：openEuler，类型：Linux，由于没有openEuler，所以版本选择Other Linux(64-bit)，下一步
 
 ![config-virtual-machine](../2020-03-27-VirtualBox-media/config-virtual-machine.png "config-virtual-machine.png")
 
@@ -111,7 +111,7 @@ summary = "如何使用VirtualBox安装openEuler虚拟机."
 
 ![install_status](../2020-03-27-VirtualBox-media/install_status.png "install_status.png")
 
-选择RootPassword设置root用户的密码
+选择Root Rassword 设置root用户的密码（后面登录要用到！~）
 
 ![set_pass](../2020-03-27-VirtualBox-media/set_pass.png "set_pass.png")
 
