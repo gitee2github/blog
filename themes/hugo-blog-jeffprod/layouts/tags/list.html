@@ -6,7 +6,7 @@
     <div class="column is-9">
         <div class="tile is-child box">
             <div class="content">
-{{ range $key, $value := .Site.Taxonomies.tags }}{{ if eq $key $tag }}{{ range $value.Pages }}
+                {{ range $key, $value := .Site.Taxonomies.tags }}{{ if eq $key ($tag | urlize) }}{{ range $value.Pages }}
                 <article class="media">
                     <div class="media-content">
                         <div class="content">
