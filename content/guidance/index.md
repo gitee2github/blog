@@ -47,13 +47,13 @@ The blog posting follows the pull request of [Gitee](gitee.com).
 git clone https://gitee.com/<your-gitee-id>/blog
 ```
 
-4. Create a branch
+3. Create a branch
 
 ```
 git checkout -b <branch-name>
 ```
 
-5. Create a folder in the blog floder
+4. Create a folder in the blog floder
 ```
 cd content\post
 mkdir <your-gitee-id>
@@ -74,7 +74,7 @@ The following are one example.
 2020-01-01-new-years-is-coming-03.pdf
 ```
 
-6. Commit your post
+5. Commit your post
 
 ```
 git add <file-path>
@@ -82,6 +82,6 @@ git commit -m "<message>"
 git push origin <branch-name>:<branch-name>
 ```
 
-7. Refer to <http://git.mydoc.io/?t=153749> to submit your Pull Request
+6. Refer to <http://git.mydoc.io/?t=153749> to submit your Pull Request
 
-8. Wait for reviewing and merging.
+7. Wait for reviewing and merging.
