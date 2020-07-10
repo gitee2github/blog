@@ -1,8 +1,8 @@
 # blog
 
 #### 介绍
-该仓库已停用，相关博客迁移至website仓库（https://gitee.com/openeuler/website），烦请移步至website，给您带来不便敬请谅解。
-Please use website repository to instead this one. Thank you.
+该仓库已停用，相关博客迁移至website仓库（ https://gitee.com/openeuler/website ）， 烦请移步至website，给您带来不便敬请谅解。
+Please use website repository ( https://gitee.com/openeuler/website ) to instead this one. Thank you.
 
 #### 软件架构
 软件架构说明
