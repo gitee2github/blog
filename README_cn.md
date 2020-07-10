@@ -1,7 +1,8 @@
 # blog
 
 #### 介绍
-Blog project is used to house the blogs that related openEuler community.
+该仓库已停用，相关博客迁移至website仓库（https://gitee.com/openeuler/website），烦请移步至website，给您带来不便敬请谅解。
+Please use website repository to instead this one. Thank you.
 
 #### 软件架构
 软件架构说明
