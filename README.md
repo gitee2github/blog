@@ -1,4 +1,5 @@
 # blog
+仓库状态设置为关闭的原因: https://gitee.com/openeuler/community/pulls/3196
 
 #### Description
 Blog project is used to house the blogs that related openEuler community.
@@ -34,3 +35,4 @@ Software architecture description
 4.  The most valuable open source project [GVP](https://gitee.com/gvp)
 5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
 6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
